@@ -49,7 +49,7 @@ and open the template in the editor.
   ============================-->
   <section id="hero">
     <div class="hero-container">
-      <h1>Welcome to Admin Panel</h1>  
+      <h1>Welcome to Admin Panel here</h1>  
     </div>
       
   </section><!-- #hero -->
